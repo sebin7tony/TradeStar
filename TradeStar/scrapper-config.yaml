@@ -1,0 +1,4 @@
+config:
+  - scrip : "SBIN"
+    strikewidth : 5.0
+    lot_size : 3000

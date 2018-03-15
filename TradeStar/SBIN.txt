@@ -1,0 +1,369 @@
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:48 IST 2017 premium 42.9 iv null OI3000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:48 IST 2017 premium 0.15 iv 39.15 OI60000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium 46.5 iv null OI42000change in oi 6000 volume 2
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium 0.25 iv 38.56 OI393000change in oi -177000 volume 81
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium null iv null OInullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium 0.3 iv 35.93 OI219000change in oi -72000 volume 82
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium 45.0 iv 82.52 OI69000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:49 IST 2017 premium 0.5 iv 35.44 OI822000change in oi -33000 volume 977
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:50 IST 2017 premium 31.0 iv null OI21000change in oi 9000 volume 5
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:50 IST 2017 premium 0.8 iv 34.89 OI528000change in oi -3000 volume 709
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:50 IST 2017 premium 27.0 iv null OI162000change in oi -3000 volume 19
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:50 IST 2017 premium 1.0 iv 32.31 OI1953000change in oi -216000 volume 2047
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 24.05 iv 31.97 OI204000change in oi -12000 volume 15
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 1.95 iv 34.2 OI1410000change in oi -120000 volume 575
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 19.0 iv 26.4 OI1509000change in oi 228000 volume 275
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 2.85 iv 33.65 OI2226000change in oi 606000 volume 2565
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 15.4 iv 27.94 OI564000change in oi -54000 volume 64
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:51 IST 2017 premium 4.1 iv 33.3 OI1536000change in oi 222000 volume 1326
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:52 IST 2017 premium 12.2 iv 28.83 OI1668000change in oi -141000 volume 895
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:52 IST 2017 premium 5.9 iv 33.65 OI2229000change in oi 132000 volume 3110
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:52 IST 2017 premium 9.5 iv 29.64 OI1611000change in oi 75000 volume 1122
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:52 IST 2017 premium 8.0 iv 33.53 OI711000change in oi 156000 volume 2131
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:53 IST 2017 premium 7.4 iv 30.82 OI4404000change in oi -165000 volume 5559
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:53 IST 2017 premium 10.75 iv 34.23 OI1245000change in oi 429000 volume 2787
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:53 IST 2017 premium 5.6 iv 31.47 OI1731000change in oi 807000 volume 3495
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:53 IST 2017 premium 13.5 iv 33.42 OI498000change in oi 465000 volume 556
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 4.05 iv 31.54 OI3156000change in oi 786000 volume 5166
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 17.25 iv 34.98 OI171000change in oi 99000 volume 210
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 3.0 iv 32.28 OI1176000change in oi 318000 volume 1270
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 22.35 iv 41.16 OI39000change in oi 30000 volume 16
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 2.25 iv 33.23 OI2295000change in oi 399000 volume 3021
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:54 IST 2017 premium 22.5 iv 17.61 OI309000change in oi null volume 2
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:55 IST 2017 premium 1.6 iv 33.59 OI597000change in oi -120000 volume 751
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:55 IST 2017 premium 23.5 iv null OI27000change in oi null volume 4
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:55 IST 2017 premium 1.15 iv 34.16 OI2154000change in oi 507000 volume 2147
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:55 IST 2017 premium 35.5 iv 47.31 OI387000change in oi 105000 volume 37
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:56 IST 2017 premium 0.9 iv 35.46 OI159000change in oi 126000 volume 203
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:56 IST 2017 premium null iv null OInullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type CE lotsize 3000 date-today Sun May 07 13:27:56 IST 2017 premium 0.65 iv 36.04 OI1200000change in oi 681000 volume 1237
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type PE lotsize 3000 date-today Sun May 07 13:27:56 IST 2017 premium 43.5 iv 42.44 OI171000change in oi 33000 volume 16
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 16:51:13 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 16:53:07 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 17:00:47 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 17:05:51 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 17:18:05 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 17:19:34 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 17:23:50 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 18:22:44 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 18:25:05 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 18:52:59 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Fri May 12 18:52:59 IST 2017 premium 0.15 iv null OI 60000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Fri May 12 18:52:59 IST 2017 premium 46.5 iv null OI 42000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Fri May 12 18:52:59 IST 2017 premium 0.15 iv 45.1 OI 369000change in oi -18000 volume 22
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium 0.25 iv 44.19 OI 177000change in oi -3000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium 40.0 iv null OI 66000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium 0.25 iv 39.59 OI 891000change in oi 15000 volume 80
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium 34.0 iv null OI 15000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:00 IST 2017 premium 0.35 iv 37.27 OI 648000change in oi 252000 volume 385
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:01 IST 2017 premium 28.85 iv 23.04 OI 141000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:01 IST 2017 premium 0.6 iv 36.47 OI 1992000change in oi -111000 volume 667
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:01 IST 2017 premium 24.15 iv 27.21 OI 141000change in oi -9000 volume 23
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:01 IST 2017 premium 0.95 iv 35.21 OI 1617000change in oi 6000 volume 584
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 19.0 iv 19.36 OI 1146000change in oi -9000 volume 21
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 1.6 iv 34.87 OI 2703000change in oi 57000 volume 768
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 15.75 iv 30.32 OI 534000change in oi -3000 volume 17
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 2.6 iv 34.73 OI 1896000change in oi -66000 volume 553
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 11.75 iv 28.73 OI 1590000change in oi null volume 203
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:02 IST 2017 premium 4.2 iv 35.57 OI 2526000change in oi -168000 volume 1064
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:03 IST 2017 premium 8.95 iv 30.64 OI 1647000change in oi -69000 volume 441
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:03 IST 2017 premium 6.25 iv 36.14 OI 690000change in oi -66000 volume 1201
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:03 IST 2017 premium 6.65 iv 31.96 OI 4848000change in oi 63000 volume 3082
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:03 IST 2017 premium 8.9 iv 37.16 OI 1482000change in oi 39000 volume 1168
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 4.95 iv 33.56 OI 2076000change in oi -87000 volume 1248
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 11.65 iv 36.5 OI 375000change in oi 6000 volume 60
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 3.5 iv 34.21 OI 4386000change in oi 195000 volume 1719
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 15.4 iv 38.51 OI 237000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 2.4 iv 34.68 OI 1107000change in oi 117000 volume 412
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:04 IST 2017 premium 21.75 iv null OI 33000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:05 IST 2017 premium 1.7 iv 35.77 OI 2916000change in oi 165000 volume 797
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:05 IST 2017 premium 23.2 iv 39.12 OI 219000change in oi -78000 volume 29
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:05 IST 2017 premium 1.3 iv 37.69 OI 816000change in oi 81000 volume 260
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:05 IST 2017 premium 23.5 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium 0.85 iv 37.89 OI 2940000change in oi 177000 volume 823
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium 32.7 iv 46.01 OI 75000change in oi -318000 volume 126
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium 0.55 iv 38.17 OI 414000change in oi 183000 volume 258
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type CE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium 0.45 iv 40.32 OI 3015000change in oi 354000 volume 758
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type PE lotsize 3000 date-today Fri May 12 18:53:06 IST 2017 premium 42.3 iv 51.78 OI 141000change in oi -30000 volume 66
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:56 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:56 IST 2017 premium 0.15 iv null OI 60000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:56 IST 2017 premium 46.5 iv null OI 42000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:56 IST 2017 premium 0.15 iv 45.1 OI 369000change in oi -18000 volume 22
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:57 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:57 IST 2017 premium 0.25 iv 44.19 OI 177000change in oi -3000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:57 IST 2017 premium 40.0 iv null OI 66000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:57 IST 2017 premium 0.25 iv 39.59 OI 891000change in oi 15000 volume 80
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 34.0 iv null OI 15000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 0.35 iv 37.27 OI 648000change in oi 252000 volume 385
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 28.85 iv 23.04 OI 141000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 0.6 iv 36.47 OI 1992000change in oi -111000 volume 667
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 24.15 iv 27.21 OI 141000change in oi -9000 volume 23
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:58 IST 2017 premium 0.95 iv 35.21 OI 1617000change in oi 6000 volume 584
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:59 IST 2017 premium 19.0 iv 19.36 OI 1146000change in oi -9000 volume 21
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:59 IST 2017 premium 1.6 iv 34.87 OI 2703000change in oi 57000 volume 768
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Fri May 12 19:04:59 IST 2017 premium 15.75 iv 30.32 OI 534000change in oi -3000 volume 17
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Fri May 12 19:04:59 IST 2017 premium 2.6 iv 34.73 OI 1896000change in oi -66000 volume 553
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 11.75 iv 28.73 OI 1590000change in oi null volume 203
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 4.2 iv 35.57 OI 2526000change in oi -168000 volume 1064
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 8.95 iv 30.64 OI 1647000change in oi -69000 volume 441
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 6.25 iv 36.14 OI 690000change in oi -66000 volume 1201
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 6.65 iv 31.96 OI 4848000change in oi 63000 volume 3082
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:00 IST 2017 premium 8.9 iv 37.16 OI 1482000change in oi 39000 volume 1168
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:01 IST 2017 premium 4.95 iv 33.56 OI 2076000change in oi -87000 volume 1248
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:01 IST 2017 premium 11.65 iv 36.5 OI 375000change in oi 6000 volume 60
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:01 IST 2017 premium 3.5 iv 34.21 OI 4386000change in oi 195000 volume 1719
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:01 IST 2017 premium 15.4 iv 38.51 OI 237000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 2.4 iv 34.68 OI 1107000change in oi 117000 volume 412
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 21.75 iv null OI 33000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 1.7 iv 35.77 OI 2916000change in oi 165000 volume 797
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 23.2 iv 39.12 OI 219000change in oi -78000 volume 29
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 1.3 iv 37.69 OI 816000change in oi 81000 volume 260
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:02 IST 2017 premium 23.5 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:03 IST 2017 premium 0.85 iv 37.89 OI 2940000change in oi 177000 volume 823
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:03 IST 2017 premium 32.7 iv 46.01 OI 75000change in oi -318000 volume 126
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:03 IST 2017 premium 0.55 iv 38.17 OI 414000change in oi 183000 volume 258
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:03 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type CE lotsize 3000 date-today Fri May 12 19:05:04 IST 2017 premium 0.45 iv 40.32 OI 3015000change in oi 354000 volume 758
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type PE lotsize 3000 date-today Fri May 12 19:05:04 IST 2017 premium 42.3 iv 51.78 OI 141000change in oi -30000 volume 66
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:49 IST 2017 premium 51.4 iv null OI 6000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:49 IST 2017 premium 0.15 iv null OI 60000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium 46.5 iv null OI 42000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium 0.15 iv 45.1 OI 369000change in oi -18000 volume 22
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium 0.25 iv 44.19 OI 177000change in oi -3000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium 40.0 iv null OI 66000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:50 IST 2017 premium 0.25 iv 39.59 OI 891000change in oi 15000 volume 80
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:51 IST 2017 premium 34.0 iv null OI 15000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:51 IST 2017 premium 0.35 iv 37.27 OI 648000change in oi 252000 volume 385
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:51 IST 2017 premium 28.85 iv 23.04 OI 141000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:51 IST 2017 premium 0.6 iv 36.47 OI 1992000change in oi -111000 volume 667
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 24.15 iv 27.21 OI 141000change in oi -9000 volume 23
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 0.95 iv 35.21 OI 1617000change in oi 6000 volume 584
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 19.0 iv 19.36 OI 1146000change in oi -9000 volume 21
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 1.6 iv 34.87 OI 2703000change in oi 57000 volume 768
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 15.75 iv 30.32 OI 534000change in oi -3000 volume 17
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:52 IST 2017 premium 2.6 iv 34.73 OI 1896000change in oi -66000 volume 553
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:53 IST 2017 premium 11.75 iv 28.73 OI 1590000change in oi null volume 203
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:53 IST 2017 premium 4.2 iv 35.57 OI 2526000change in oi -168000 volume 1064
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:53 IST 2017 premium 8.95 iv 30.64 OI 1647000change in oi -69000 volume 441
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:53 IST 2017 premium 6.25 iv 36.14 OI 690000change in oi -66000 volume 1201
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 6.65 iv 31.96 OI 4848000change in oi 63000 volume 3082
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 8.9 iv 37.16 OI 1482000change in oi 39000 volume 1168
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 4.95 iv 33.56 OI 2076000change in oi -87000 volume 1248
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 11.65 iv 36.5 OI 375000change in oi 6000 volume 60
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 3.5 iv 34.21 OI 4386000change in oi 195000 volume 1719
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:54 IST 2017 premium 15.4 iv 38.51 OI 237000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 2.4 iv 34.68 OI 1107000change in oi 117000 volume 412
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 21.75 iv null OI 33000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 1.7 iv 35.77 OI 2916000change in oi 165000 volume 797
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 23.2 iv 39.12 OI 219000change in oi -78000 volume 29
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 1.3 iv 37.69 OI 816000change in oi 81000 volume 260
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:55 IST 2017 premium 23.5 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:56 IST 2017 premium 0.85 iv 37.89 OI 2940000change in oi 177000 volume 823
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:56 IST 2017 premium 32.7 iv 46.01 OI 75000change in oi -318000 volume 126
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:56 IST 2017 premium 0.55 iv 38.17 OI 414000change in oi 183000 volume 258
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 335.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:56 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type CE lotsize 3000 date-today Fri May 12 19:12:57 IST 2017 premium 0.45 iv 40.32 OI 3015000change in oi 354000 volume 758
+scrip_name SBIN expiry Thu May 25 00:00:00 IST 2017 Strike 340.0 option_type PE lotsize 3000 date-today Fri May 12 19:12:57 IST 2017 premium 42.3 iv 51.78 OI 141000change in oi -30000 volume 66
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 240.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:25 IST 2017 premium 48.5 iv null OI 9000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 240.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:25 IST 2017 premium 0.05 iv 50.21 OI 180000change in oi -9000 volume 3
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:25 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:25 IST 2017 premium 0.1 iv null OI 120000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:26 IST 2017 premium 37.2 iv null OI 51000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:26 IST 2017 premium 0.1 iv 44.49 OI 450000change in oi -66000 volume 39
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:26 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:26 IST 2017 premium 0.1 iv null OI 198000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 29.5 iv null OI 9000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 0.1 iv 34.34 OI 1686000change in oi -30000 volume 75
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 26.0 iv null OI 12000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 0.15 iv 31.26 OI 816000change in oi 30000 volume 68
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 20.45 iv null OI 105000change in oi -3000 volume 3
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:27 IST 2017 premium 0.2 iv 27.34 OI 2700000change in oi -492000 volume 754
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:28 IST 2017 premium 15.85 iv null OI 237000change in oi null volume 3
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:28 IST 2017 premium 0.4 iv 25.35 OI 2658000change in oi 3000 volume 570
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:28 IST 2017 premium 10.8 iv null OI 1203000change in oi 138000 volume 385
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:28 IST 2017 premium 0.85 iv 23.34 OI 3186000change in oi 573000 volume 1243
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:29 IST 2017 premium 7.2 iv 19.35 OI 1008000change in oi -288000 volume 539
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:29 IST 2017 premium 2.0 iv 24.04 OI 2682000change in oi 276000 volume 1107
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:29 IST 2017 premium 4.35 iv 21.63 OI 4494000change in oi -300000 volume 2287
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:29 IST 2017 premium 4.15 iv 25.3 OI 3555000change in oi -291000 volume 958
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 2.45 iv 22.8 OI 2694000change in oi 99000 volume 987
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 7.25 iv 27.03 OI 351000change in oi 24000 volume 57
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 1.4 iv 24.39 OI 8562000change in oi 78000 volume 2088
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 11.55 iv 32.26 OI 1419000change in oi -57000 volume 56
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 0.7 iv 25.56 OI 2205000change in oi 177000 volume 481
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:30 IST 2017 premium 17.55 iv null OI 153000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:31 IST 2017 premium 0.4 iv 27.43 OI 5274000change in oi 75000 volume 739
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:31 IST 2017 premium 20.25 iv 37.04 OI 285000change in oi -3000 volume 2
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:31 IST 2017 premium 0.25 iv 29.61 OI 1158000change in oi 63000 volume 165
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:31 IST 2017 premium 24.8 iv 38.15 OI 36000change in oi null volume 2
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:32 IST 2017 premium 0.2 iv 32.88 OI 2550000change in oi -33000 volume 114
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:32 IST 2017 premium 31.0 iv null OI 78000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:32 IST 2017 premium 0.15 iv 35.5 OI 669000change in oi -3000 volume 9
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:32 IST 2017 premium 35.25 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:33 IST 2017 premium 0.1 iv 37.24 OI 1446000change in oi -39000 volume 35
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:33 IST 2017 premium 45.6 iv null OI 33000change in oi null volume null
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 335.0 option_type CE lotsize 3000 date-today Wed Jun 21 00:37:33 IST 2017 premium 0.1 iv 40.98 OI 237000change in oi 6000 volume 4
+scrip_name SBIN expiry Thu Jun 29 00:00:00 IST 2017 Strike 335.0 option_type PE lotsize 3000 date-today Wed Jun 21 00:37:33 IST 2017 premium 30.05 iv null OI 3000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:10 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:10 IST 2017 premium 0.1 iv null OI 51000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:11 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:11 IST 2017 premium 0.05 iv 37.73 OI 120000change in oi -30000 volume 12
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:13 IST 2017 premium 31.0 iv null OI 3000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:13 IST 2017 premium 0.15 iv 39.41 OI 162000change in oi 27000 volume 13
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:15 IST 2017 premium 32.15 iv null OI 78000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:15 IST 2017 premium 0.1 iv 33.18 OI 639000change in oi -21000 volume 26
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:18 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:18 IST 2017 premium 0.15 iv 31.07 OI 375000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:20 IST 2017 premium 27.1 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:20 IST 2017 premium 0.25 iv 29.44 OI 1632000change in oi 87000 volume 236
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:22 IST 2017 premium 25.45 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:22 IST 2017 premium 0.35 iv 26.77 OI 1098000change in oi 72000 volume 409
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:25 IST 2017 premium 18.95 iv 15.27 OI 738000change in oi -9000 volume 22
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:25 IST 2017 premium 0.7 iv 26.17 OI 2529000change in oi 75000 volume 490
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:27 IST 2017 premium 14.3 iv 17.57 OI 990000change in oi -6000 volume 29
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:27 IST 2017 premium 1.15 iv 24.4 OI 2418000change in oi 243000 volume 543
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:29 IST 2017 premium 10.7 iv 21.84 OI 1581000change in oi -141000 volume 305
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:29 IST 2017 premium 2.15 iv 24.03 OI 2547000change in oi 222000 volume 1262
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:32 IST 2017 premium 7.5 iv 22.84 OI 1500000change in oi -57000 volume 1185
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:32 IST 2017 premium 3.8 iv 24.06 OI 1365000change in oi 354000 volume 1134
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:34 IST 2017 premium 4.85 iv 22.9 OI 4230000change in oi -102000 volume 1810
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:34 IST 2017 premium 6.0 iv 23.5 OI 1629000change in oi 33000 volume 269
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:36 IST 2017 premium 3.05 iv 23.55 OI 1737000change in oi -135000 volume 917
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:36 IST 2017 premium 9.2 iv 24.29 OI 147000change in oi 9000 volume 7
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:38 IST 2017 premium 1.8 iv 23.94 OI 6018000change in oi 24000 volume 1581
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:38 IST 2017 premium 12.8 iv 24.11 OI 483000change in oi -9000 volume 8
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:39 IST 2017 premium 1.1 iv 24.98 OI 1461000change in oi 231000 volume 373
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:39 IST 2017 premium 18.15 iv null OI 72000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:41 IST 2017 premium 0.65 iv 25.82 OI 1485000change in oi 27000 volume 722
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:41 IST 2017 premium 34.2 iv null OI 108000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:43 IST 2017 premium 0.45 iv 27.62 OI 330000change in oi 63000 volume 76
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:43 IST 2017 premium 29.0 iv 48.49 OI 6000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:45 IST 2017 premium 0.35 iv 29.89 OI 888000change in oi 36000 volume 109
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:45 IST 2017 premium 34.5 iv 56.91 OI 99000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:47 IST 2017 premium 0.2 iv 30.28 OI 108000change in oi 6000 volume 4
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:47 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:48:49 IST 2017 premium 0.2 iv 33.49 OI 222000change in oi 21000 volume 24
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:48:49 IST 2017 premium 56.0 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:04 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:04 IST 2017 premium 0.1 iv null OI 51000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:06 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:06 IST 2017 premium 0.05 iv 37.73 OI 120000change in oi -30000 volume 12
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:07 IST 2017 premium 31.0 iv null OI 3000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:07 IST 2017 premium 0.15 iv 39.41 OI 162000change in oi 27000 volume 13
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:08 IST 2017 premium 32.15 iv null OI 78000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:08 IST 2017 premium 0.1 iv 33.18 OI 639000change in oi -21000 volume 26
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:08 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:08 IST 2017 premium 0.15 iv 31.07 OI 375000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:10 IST 2017 premium 27.1 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:10 IST 2017 premium 0.25 iv 29.44 OI 1632000change in oi 87000 volume 236
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:11 IST 2017 premium 25.45 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:11 IST 2017 premium 0.35 iv 26.77 OI 1098000change in oi 72000 volume 409
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:13 IST 2017 premium 18.95 iv 15.27 OI 738000change in oi -9000 volume 22
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:13 IST 2017 premium 0.7 iv 26.17 OI 2529000change in oi 75000 volume 490
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:15 IST 2017 premium 14.3 iv 17.57 OI 990000change in oi -6000 volume 29
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:15 IST 2017 premium 1.15 iv 24.4 OI 2418000change in oi 243000 volume 543
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:17 IST 2017 premium 10.7 iv 21.84 OI 1581000change in oi -141000 volume 305
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:17 IST 2017 premium 2.15 iv 24.03 OI 2547000change in oi 222000 volume 1262
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:18 IST 2017 premium 7.5 iv 22.84 OI 1500000change in oi -57000 volume 1185
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:18 IST 2017 premium 3.8 iv 24.06 OI 1365000change in oi 354000 volume 1134
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:20 IST 2017 premium 4.85 iv 22.9 OI 4230000change in oi -102000 volume 1810
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:20 IST 2017 premium 6.0 iv 23.5 OI 1629000change in oi 33000 volume 269
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:22 IST 2017 premium 3.05 iv 23.55 OI 1737000change in oi -135000 volume 917
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:22 IST 2017 premium 9.2 iv 24.29 OI 147000change in oi 9000 volume 7
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:24 IST 2017 premium 1.8 iv 23.94 OI 6018000change in oi 24000 volume 1581
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:24 IST 2017 premium 12.8 iv 24.11 OI 483000change in oi -9000 volume 8
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:25 IST 2017 premium 1.1 iv 24.98 OI 1461000change in oi 231000 volume 373
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:25 IST 2017 premium 18.15 iv null OI 72000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:27 IST 2017 premium 0.65 iv 25.82 OI 1485000change in oi 27000 volume 722
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:27 IST 2017 premium 34.2 iv null OI 108000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:29 IST 2017 premium 0.45 iv 27.62 OI 330000change in oi 63000 volume 76
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:29 IST 2017 premium 29.0 iv 48.49 OI 6000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:30 IST 2017 premium 0.35 iv 29.89 OI 888000change in oi 36000 volume 109
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:30 IST 2017 premium 34.5 iv 56.91 OI 99000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:33 IST 2017 premium 0.2 iv 30.28 OI 108000change in oi 6000 volume 4
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:33 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Wed Jul 12 22:58:35 IST 2017 premium 0.2 iv 33.49 OI 222000change in oi 21000 volume 24
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Wed Jul 12 22:58:35 IST 2017 premium 56.0 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:43 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:43 IST 2017 premium 0.1 iv null OI 51000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:44 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:44 IST 2017 premium 0.05 iv 37.73 OI 120000change in oi -30000 volume 12
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:46 IST 2017 premium 31.0 iv null OI 3000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:46 IST 2017 premium 0.15 iv 39.41 OI 162000change in oi 27000 volume 13
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:48 IST 2017 premium 32.15 iv null OI 78000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:48 IST 2017 premium 0.1 iv 33.18 OI 639000change in oi -21000 volume 26
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:50 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:50 IST 2017 premium 0.15 iv 31.07 OI 375000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:51 IST 2017 premium 27.1 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:51 IST 2017 premium 0.25 iv 29.44 OI 1632000change in oi 87000 volume 236
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:52 IST 2017 premium 25.45 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:52 IST 2017 premium 0.35 iv 26.77 OI 1098000change in oi 72000 volume 409
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:53 IST 2017 premium 18.95 iv 15.27 OI 738000change in oi -9000 volume 22
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:53 IST 2017 premium 0.7 iv 26.17 OI 2529000change in oi 75000 volume 490
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:55 IST 2017 premium 14.3 iv 17.57 OI 990000change in oi -6000 volume 29
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:55 IST 2017 premium 1.15 iv 24.4 OI 2418000change in oi 243000 volume 543
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:57 IST 2017 premium 10.7 iv 21.84 OI 1581000change in oi -141000 volume 305
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:57 IST 2017 premium 2.15 iv 24.03 OI 2547000change in oi 222000 volume 1262
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:26:59 IST 2017 premium 7.5 iv 22.84 OI 1500000change in oi -57000 volume 1185
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:26:59 IST 2017 premium 3.8 iv 24.06 OI 1365000change in oi 354000 volume 1134
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:01 IST 2017 premium 4.85 iv 22.9 OI 4230000change in oi -102000 volume 1810
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:01 IST 2017 premium 6.0 iv 23.5 OI 1629000change in oi 33000 volume 269
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:03 IST 2017 premium 3.05 iv 23.55 OI 1737000change in oi -135000 volume 917
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:03 IST 2017 premium 9.2 iv 24.29 OI 147000change in oi 9000 volume 7
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:05 IST 2017 premium 1.8 iv 23.94 OI 6018000change in oi 24000 volume 1581
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:05 IST 2017 premium 12.8 iv 24.11 OI 483000change in oi -9000 volume 8
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:08 IST 2017 premium 1.1 iv 24.98 OI 1461000change in oi 231000 volume 373
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:08 IST 2017 premium 18.15 iv null OI 72000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:12 IST 2017 premium 0.65 iv 25.82 OI 1485000change in oi 27000 volume 722
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:12 IST 2017 premium 34.2 iv null OI 108000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:14 IST 2017 premium 0.45 iv 27.62 OI 330000change in oi 63000 volume 76
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:14 IST 2017 premium 29.0 iv 48.49 OI 6000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:16 IST 2017 premium 0.35 iv 29.89 OI 888000change in oi 36000 volume 109
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:16 IST 2017 premium 34.5 iv 56.91 OI 99000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:18 IST 2017 premium 0.2 iv 30.28 OI 108000change in oi 6000 volume 4
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:18 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Wed Jul 12 23:27:20 IST 2017 premium 0.2 iv 33.49 OI 222000change in oi 21000 volume 24
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Wed Jul 12 23:27:20 IST 2017 premium 56.0 iv null OI 27000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:11 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 235.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:11 IST 2017 premium 0.1 iv null OI 51000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:13 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 240.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:13 IST 2017 premium 0.05 iv 37.73 OI 120000change in oi -30000 volume 12
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:15 IST 2017 premium 31.0 iv null OI 3000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 245.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:15 IST 2017 premium 0.15 iv 39.41 OI 162000change in oi 27000 volume 13
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:16 IST 2017 premium 32.15 iv null OI 78000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 250.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:16 IST 2017 premium 0.1 iv 33.18 OI 639000change in oi -21000 volume 26
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:18 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 255.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:18 IST 2017 premium 0.15 iv 31.07 OI 375000change in oi 15000 volume 19
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:20 IST 2017 premium 27.1 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 260.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:20 IST 2017 premium 0.25 iv 29.44 OI 1632000change in oi 87000 volume 236
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:21 IST 2017 premium 25.45 iv null OI 54000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 265.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:21 IST 2017 premium 0.35 iv 26.77 OI 1098000change in oi 72000 volume 409
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:22 IST 2017 premium 18.95 iv 15.27 OI 738000change in oi -9000 volume 22
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 270.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:22 IST 2017 premium 0.7 iv 26.17 OI 2529000change in oi 75000 volume 490
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:23 IST 2017 premium 14.3 iv 17.57 OI 990000change in oi -6000 volume 29
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 275.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:23 IST 2017 premium 1.15 iv 24.4 OI 2418000change in oi 243000 volume 543
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:23 IST 2017 premium 10.7 iv 21.84 OI 1581000change in oi -141000 volume 305
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 280.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:23 IST 2017 premium 2.15 iv 24.03 OI 2547000change in oi 222000 volume 1262
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:24 IST 2017 premium 7.5 iv 22.84 OI 1500000change in oi -57000 volume 1185
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 285.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:24 IST 2017 premium 3.8 iv 24.06 OI 1365000change in oi 354000 volume 1134
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:25 IST 2017 premium 4.85 iv 22.9 OI 4230000change in oi -102000 volume 1810
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 290.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:25 IST 2017 premium 6.0 iv 23.5 OI 1629000change in oi 33000 volume 269
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:27 IST 2017 premium 3.05 iv 23.55 OI 1737000change in oi -135000 volume 917
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 295.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:27 IST 2017 premium 9.2 iv 24.29 OI 147000change in oi 9000 volume 7
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:29 IST 2017 premium 1.8 iv 23.94 OI 6018000change in oi 24000 volume 1581
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 300.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:29 IST 2017 premium 12.8 iv 24.11 OI 483000change in oi -9000 volume 8
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:30 IST 2017 premium 1.1 iv 24.98 OI 1461000change in oi 231000 volume 373
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 305.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:30 IST 2017 premium 18.15 iv null OI 72000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:31 IST 2017 premium 0.65 iv 25.82 OI 1485000change in oi 27000 volume 722
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 310.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:31 IST 2017 premium 34.2 iv null OI 108000change in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:32 IST 2017 premium 0.45 iv 27.62 OI 330000change in oi 63000 volume 76
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 315.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:32 IST 2017 premium 29.0 iv 48.49 OI 6000change in oi -6000 volume 3
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:34 IST 2017 premium 0.35 iv 29.89 OI 888000change in oi 36000 volume 109
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 320.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:34 IST 2017 premium 34.5 iv 56.91 OI 99000change in oi -3000 volume 1
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:35 IST 2017 premium 0.2 iv 30.28 OI 108000change in oi 6000 volume 4
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 325.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:35 IST 2017 premium null iv null OI nullchange in oi null volume null
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type CE lotsize 3000 date-today Thu Jul 13 00:00:36 IST 2017 premium 0.2 iv 33.49 OI 222000change in oi 21000 volume 24
+scrip_name SBIN expiry Thu Jul 27 00:00:00 IST 2017 Strike 330.0 option_type PE lotsize 3000 date-today Thu Jul 13 00:00:36 IST 2017 premium 56.0 iv null OI 27000change in oi null volume null

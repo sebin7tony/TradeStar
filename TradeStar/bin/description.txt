@@ -1,0 +1,8 @@
+
+Step : 1 (tradebook)
+---------
+Need to build a system that keeps track of every trade that i make. every trade can be have multiple entries as per 
+strategies (its called legs).it should able to display graphically after analysis.
+
+Step 2: 
+Write a crawler that will 
